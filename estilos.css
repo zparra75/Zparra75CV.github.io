@@ -1,0 +1,71 @@
+body{
+
+display: flex;
+}
+
+.contenedor{
+
+border: 1px solid #180101;
+margin: 0 auto;
+width: 60%;
+background: #fffdfd;
+padding: 10px;
+
+}
+
+.principal{
+background: #f8fafa;
+padding: 10px;
+border: 1px solid #050505;
+}
+
+.header{
+display: flex;
+
+}
+
+.icon{
+ display: flex;
+ width: 8px;
+ height: 8px;
+ justify-content: space-around;
+ margin-bottom: 35px;
+ margin-left: 170px;
+}
+
+.icon a{
+margin: 0 10px;
+text-align: center;
+
+
+}
+
+.info{
+margin-left: 40px;
+width: 100%;
+
+}
+
+.titulo{
+border: 1px solid #050505;
+color: #050007;
+background: #989e9e;
+
+
+}
+
+.foto{
+justify-content: space-around;
+  margin: 0 1px; 
+
+}
+
+h1{
+
+    font-size: 25px
+}
+
+h3{
+
+    text-align:center;
+}
